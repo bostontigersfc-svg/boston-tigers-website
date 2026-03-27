@@ -1,0 +1,116 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+[1G[0K12:59:21 AM [express] serving on port 5000
+
+A PostCSS plugin did not pass the `from` option to `postcss.parse`. This may cause imported assets to be incorrectly transformed. If you've recently added a PostCSS plugin that raised this warning, please contact the package author to fix the issue.
+
+
+
+
+
+
+
+[1;1H[0J[2m1:03:00 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/elite-development.tsx, /src/index.css[22m
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:05:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/elite-development.tsx, /src/index.css[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:08:41 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/elite-development.tsx, /src/index.css[22m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:11:18 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/elite-development.tsx, /src/index.css[22m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:11:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/elite-development.tsx, /src/index.css[22m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:13:51 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/elite-development.tsx, /src/index.css[22m [33m(x6)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:14:07 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/elite-development.tsx, /src/index.css[22m [33m(x7)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:22:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/apply.tsx, /src/index.css[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m1:25:37 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/apply.tsx, /src/index.css[22m [33m(x2)[39m
+1:27:00 AM [express] POST /api/elite-applications 201 in 49ms :: {"id":2,"playerName":"Boston Tigers Football Club","playerAge":"5","grade":"8th","highSchool":"h","currentTeam":"h","primaryPosition":"Center Back","secondaryPosition":"Right Back","dominantFoot":"Left","parentName":"hhh","parentEmail":"bostontigersfc@gmail.com","parentPhone":"3396148832","yearsPlaying":"3-5","goalLevel":"College Soccer","improveArea":"Tactical Understanding","highlightVideo":"","whyJoin":"ghjghjtyjtyjyjtyj","acceptedCommitment":true,"acceptedWaiver":true,"acceptedGuardian":true,"submittedAt":"2026-03-26T01:27:00.056Z"}
